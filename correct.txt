@@ -1,0 +1,4 @@
+1. ganti field value dan header di table todo dan note pake nama field yang lain
+2. buat function untuk menggenerate otomatis data default ke dalam table kategori saat user baru pertama kali signup
+3. saat mendelete data yang id nya salah, tidak terdapat pesan pemberitahunan dan justru status = success
+4. perbaiki logic if pada noteModel get 
